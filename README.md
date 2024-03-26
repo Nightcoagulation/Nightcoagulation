@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Chemistry，Computational Biology and Machine Learning。
 - 🌱 I’m currently learning these，and looking for a job.
 - 📫 How to reach me ? Please send mail to me ( liuzw@tib.cas.cn )^^
-- 😄 Pronouns: ...
+- 😄 script: Mainly the scripts and some learning records I used for my research.
 - ⚡ Fun fact: ...
 
 <!---
